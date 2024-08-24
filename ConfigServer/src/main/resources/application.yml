@@ -1,5 +1,5 @@
-  application:
-    name: UserService-default
+application:
+  name: UserService-default
 eureka:
   instance:
     prefer-ip-address: true
