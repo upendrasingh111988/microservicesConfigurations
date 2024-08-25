@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: test-config
 eureka:
   instance:
     prefer-ip-address: true
